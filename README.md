@@ -25,3 +25,12 @@
   <a href="https://www.linkedin.com/in/joyce-magalh%C3%A3es-3913b6212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+ ##
+  
+  <div align="center">
+
+  ![Snake animation](https://github.com/danielbped/joycemagalhaess/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
